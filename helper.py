@@ -30,12 +30,12 @@ texts = {
 }
 
 images = {
-    "menu": r"C:\Users\User\PyCharmMiscProject\ботик\images\menu.png",
-    "me": r"C:\Users\User\PyCharmMiscProject\ботик\images\me.png",
-    "hobbies": r"C:\Users\User\PyCharmMiscProject\ботик\images\hobbies.jpg",
-    "goals": r"C:\Users\User\PyCharmMiscProject\ботик\images\goals.png",
-    "way": r"C:\Users\User\PyCharmMiscProject\ботик\images\way.jpg",
-    "capedu": r"C:\Users\User\PyCharmMiscProject\ботик\images\capedu.png",
-    "works": r"C:\Users\User\PyCharmMiscProject\ботик\images\works.png",
-    "ai": r"C:\Users\User\PyCharmMiscProject\ботик\images\ai.png"
+    "menu": "images/menu.png",
+    "me": "images/me.png",
+    "hobbies": "images/hobbies.jpg",
+    "goals": "images/goals.png",
+    "way": "images/way.jpg",
+    "capedu": "images/capedu.png",
+    "works": "images/works.png",
+    "ai": "images/ai.png"
 }
