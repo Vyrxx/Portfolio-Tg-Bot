@@ -13,7 +13,7 @@
 ## ℹ️ Overview
 
 Я сделал это для конкурса, поэтому это хорошо
-[Деплой](t.me/VyrxPortfolio_Bot)
+[Деплой](https://t.me/VyrxPortfolio_Bot)
 
 
 ### ✍️ Автор
