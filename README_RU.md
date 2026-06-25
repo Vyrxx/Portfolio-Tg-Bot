@@ -13,12 +13,12 @@
 ## ℹ️ Overview
 
 Я сделал это для конкурса, поэтому это хорошо
-Деплой: t.me/VyrxPortfolio_Bot
+[Деплой](t.me/VyrxPortfolio_Bot)
 
 
 ### ✍️ Автор
 
-Vyrx - github.com/Vyrxx
+ - [Vyrx](https://github.com/Vyrxx)
 
 
 ## 🚀 Использование
