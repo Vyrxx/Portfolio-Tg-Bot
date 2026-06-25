@@ -13,6 +13,7 @@ Telegram Bot for your portfolio!
 ## ℹ️ Overview
 
 I made this for contest so this is good.
+Check deploy: t.me/VyrxPortfolio_Bot
 
 
 ### ✍️ Authors
