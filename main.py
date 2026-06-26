@@ -276,7 +276,7 @@ def callback_msg(callback):
         markup.row(capedu, works)
         markup.row(ai)
         img = images["menu"]
-        text = texts["menu"].format(name=name)
+        text = texts["back_menu"]
         new_media = types.InputMediaPhoto(
             media=open(img, 'rb'),
             caption=text,
